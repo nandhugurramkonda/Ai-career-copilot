@@ -197,6 +197,6 @@ vercel env add GEMINI_API_KEY
 ```
 
 ---
-
+Built as part of the ApnoAI Internship program
 ## 📄 License
 MIT License. Free for personal and commercial career development use.
